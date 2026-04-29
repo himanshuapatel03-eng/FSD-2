@@ -1,0 +1,18 @@
+h1{
+    border: 2px;
+    color: rgb(0, 247, 255);
+    font-size: x-large;
+    font-style: italic;
+    background-color: rgb(153, 43, 226);
+    border-color: rgb(67, 165, 42);
+}
+img{
+    align-items: center;
+}
+form{
+    text-align: center;
+    color: aqua;
+    border-radius: 2px;
+    border-color: blueviolet;
+    font-size: x-large;
+}
